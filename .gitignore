@@ -1,4 +1,0 @@
-eks-manifests/
-k8s/
-*.sql
-*.swp
